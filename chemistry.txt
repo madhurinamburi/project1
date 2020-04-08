@@ -1,0 +1,12 @@
+iron
+copper
+zinc
+co2
+sulpier
+icc
+:wq
+
+:x
+:wq
+
+
