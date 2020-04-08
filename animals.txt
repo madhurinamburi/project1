@@ -1,0 +1,8 @@
+dog
+cat
+elepehant
+ant
+bee
+horse
+tiger
+lion
